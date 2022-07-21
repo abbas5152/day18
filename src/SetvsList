@@ -1,0 +1,8 @@
+Q3) What is the difference between List and Set ?
+A3) List is index based data structure whereas Set is not depend on index.
+    In list we allow to store duplicate values but in Set we can't Store Duplicates.
+     List is index based so it follows insertion order but list doesn't follow insertion order.
+     In list we can give n number of null value but in Set we can give only one null value.
+     List Interface have their personal specific method whereas Set doesn't have any particular method.
+
+
